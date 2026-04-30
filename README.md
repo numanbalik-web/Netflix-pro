@@ -9,7 +9,7 @@ Kullanıcıların film ve dizi içeriklerini keşfedebileceği, detaylarını in
 
 ## 🚀 Fullscreen Experience
 
-![Fullscreen](./screen/fullscreen)
+![Fullscreen](./screen/fullscreen.png)
 
 Bu bölümde, uygulamanın genel arayüz tasarımını ve kullanıcı deneyimini geliştirmeye odaklandım.  
 ➡️ **Kazanım:** Responsive tasarım, layout yönetimi ve kullanıcı odaklı UI geliştirme pratiği kazandım.
@@ -18,7 +18,7 @@ Bu bölümde, uygulamanın genel arayüz tasarımını ve kullanıcı deneyimini
 
 ## 🎯 Content Browsing
 
-![Screen1](./screen/screen1)
+![Screen1](./screen/screen1.png)
 
 Film ve dizi listelerinin dinamik olarak listelendiği yapı.  
 ➡️ **Kazanım:** API'den veri çekme, state yönetimi ve dinamik içerik render etme konularında deneyim kazandım.
@@ -27,7 +27,7 @@ Film ve dizi listelerinin dinamik olarak listelendiği yapı.
 
 ## 🎥 Detail & Interaction
 
-![Screen2](./screen/screen2)
+![Screen2](./screen/screen2.png)
 
 Kullanıcı etkileşimi ve içerik detaylarının gösterildiği bölüm.  
 ➡️ **Kazanım:** Component yapısı kurma, reusable component geliştirme ve kullanıcı etkileşimi yönetimi üzerine çalıştım.
