@@ -83,4 +83,4 @@ Global ölçekte kullanılabilecek arayüz standartlarına uygun olarak tasarlan
 ## 🙏 Teşekkür
 
 Bu proje sürecinde edindiğim bilgi ve deneyimler için  
-https://github.com/Udemig Software Academy’e ve eğitmenim https://github.com/isveckrali’a ve https://github.com/furkanevin è teşekkür ederim.
+https://github.com/Udemig Software Academy’e ve eğitmenim https://github.com/isveckrali ’a ve https://github.com/furkanevin è teşekkür ederim.
