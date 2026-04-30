@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-linear-to-br from-[#141414] via-[#1a1a1a] to-[#0a0a0a] text-[#e6e6e6];
+  }
+
+  a,
+  button {
+    @apply transition duration-300 cursor-pointer;
+  }
+}
+
+@layer utilities {
+  .padding {
+    @apply p-5 md:p-10 lg:px-15 xl:px-20;
+  }
+}
