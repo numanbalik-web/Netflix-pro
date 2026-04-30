@@ -70,8 +70,8 @@ Bu projede **TMDB API** kullanılmıştır.
 **Numan Balık**
 
 📧 Email: numanbalik72@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
-💻 GitHub: https://github.com/yourusername  
+💼 LinkedIn: https://linkedin.com/in/numan-balik-sverige 
+ 
 
 ---
 
